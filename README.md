@@ -1,4 +1,4 @@
-# Python Modules and Packages Tutorial
+# Educative - Learn Python 3 from Scratch - Introduction
 
 ## Summary of steps to complete
 
